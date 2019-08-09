@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package com.digital_light.tutorial_mod.mixin;
 
 import net.minecraft.client.MinecraftClient;
 import org.spongepowered.asm.mixin.Mixin;
